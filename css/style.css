@@ -290,10 +290,6 @@ section {
 
 }
 
-.row:hover .layer {
-    height: 100%;
-}
-
 .contact {
     background: var(--second-bg-color);
     display: grid;
